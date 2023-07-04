@@ -17,6 +17,7 @@ Dual Weight Design
 
 Sale info:
 25 Units in stock FCFS
+
 Kits include
 - Case Assembly
 - Mechlovin' PCB
