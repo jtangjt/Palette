@@ -10,7 +10,7 @@ Plate: Silver anodized aluminum.
 
 Dual Weight Design
 - Weight 1:
-  - laquered brass (should not patina)
+  - lacquered brass (should not patina)
   - engraved on both internal and external face
 - Weight 2:
   - sandblasted stainless steel
